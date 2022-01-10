@@ -1,5 +1,4 @@
 import numpy as np
-import cv2
 
 def convertImgToSquare(image):
     img_h = image.shape[0]
